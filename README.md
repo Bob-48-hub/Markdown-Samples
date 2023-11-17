@@ -1,4 +1,5 @@
-# Markdown Samples
+# ----- Markdown Samples -----
+# Headings
 # h1
 ## h2
 ### h3
