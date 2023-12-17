@@ -59,11 +59,21 @@ The text that you want to make **bold has 2\* before and after the text**. Or yo
 The text that you want to make _italic has 1\* before and after the text_. Or you can use a _single \_underscore before and after to bold the text_.  
 To make text **_both bold and italic_** you surround the text with 3\*, or **_3 \_underscores_**.
 
-05:50 - Markdown Flavors
-06:45 - Bold/Italic
-08:24 - Strikethrough/Highlight
-09:33 - Superscript/Subscript
-10:40 - Emojis
+### Highlight
+
+To <mark>highlight text</mark> use the html tag \<mark\>.
+
+### Subscript and Superscript
+
+Use the html tags \<sub\> and \<sup\> to provide subscript H<sub>2</sub>O and superscript X<sup>2</sup>.
+
+### Emojis
+
+The easiest way to place emojis into your text is to copy and paste them in😊.  
+Windows key + . displays emojis 😎👴🍕
+
+### Code Blocks
+
 11:09 - Code Blocks
 13:45 - Links
 15:11 - Images
