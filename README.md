@@ -124,4 +124,17 @@ You have to have at least 3 of - or \_ or \*. Dashes seem to be preferable.
 
 ## Tables - Available in Extended Markdown
 
+Left align put colon to the left of the dash line.  
+Right align put colon to the left of the dash line.
+Center align put colon before and after dash line
+| Col 1 | Col 2 | Col 3 |
+| :----- | ------: | :----: |
+| This | is | a |
+| table | that | has |
+| three | columns | and is |
+| left | right | center |
+
 ## Checklists - Available in Extended Markdown
+
+- [ ] This is an unchecked checkbox
+- [x] This is a checked checkbox
