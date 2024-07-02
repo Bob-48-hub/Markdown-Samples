@@ -132,7 +132,7 @@ Center align put colon before and after dash line
 | This | is | a |
 | table | that | has |
 | three | columns | and is |
-| left | right | center |
+| left | center | right |
 
 ## Checklists - Available in Extended Markdown
 
